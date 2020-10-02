@@ -24,7 +24,7 @@ POSTGRES_DB=rails_blog_dev
 ```
 
 ### Starting the application
-
+<!-- ***left off here -->
 ```
 $ docker-compose build
 $ docker-compose up
